@@ -1,0 +1,33 @@
+{
+    "bot": {
+        "name": "My Bot",
+        "author": "My Name"
+    },
+    "commands": {
+        "dev": "dev",
+        "help": "help",
+        "info": "info",
+        "link": "link",
+        "test": "test",
+        "translate": "translate"
+    },
+    "arguments": {
+        "link": "link"
+    },
+    "colors": {
+        "success": "#00ff83",
+        "warning": "#ffcc66",
+        "error": "#ff4a4a"
+    },
+    "links": {
+        "invite": "https://discord.com/",
+        "docs": "https://top.gg/",
+        "vote": "https://top.gg/",
+        "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=EW389DYYSS4FC",
+        "support": "https://support.discord.com/",
+        "stream": "https://www.twitch.tv/novakevin",
+        "author": "https://github.com/",
+        "source": "https://github.com/",
+        "template": "https://github.com/KevinNovak/Discord-Bot-TypeScript-Template"
+    }
+}
